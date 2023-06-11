@@ -4,270 +4,40 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>  Privacy Policy  </title>
+    <title> Privacy Policy  </title>
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <title>Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-Alabama</title>
-<link rel="canonical" href="privacy-policy.html" />
-<link rel="shortcut icon" href="img/logo.jpg" alt="" />
+ <title>test
+te
+st
+e</title>
+<link rel="canonical" href="sitemap.html" />
+<link rel="shortcut icon" href="img/" alt="" />
 <meta charset="UTF-8">
-<meta name="title" content="Privacy Policy - Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-Alabama">
-<meta name="DC.title" lang="en" content="Privacy Policy - Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-Alabama">
+<meta name="title" content="Sitemap - test
+te
+st
+e">
+<meta name="DC.title" lang="en" content="Sitemap - test
+te
+st
+e">
 
 
 
-<meta name="description" content="Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-Alabama">
-<meta name="keywords" content="Alaska
-Arizona
-Arkansas
-California
-Colorado
-Connecticut
-Delaware
-Florida
-Georgia
-Hawaii
-Idaho
-Illinois
-Indiana
-Iowa
-Kansas
-Kentucky
-Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
-Mississippi
-Missouri
-Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
-Wyoming
-Alabama, , , , , , ">
-<meta name="author" content="">
+<meta name="description" content="test
+te
+st
+e">
+<meta name="keywords" content="test
+te
+st
+eqwe, asdsad, qwew, qeasd, sadas, d, ">
+<meta name="author" content="qwe">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
@@ -275,34 +45,106 @@ Alabama, , , , , , ">
 
  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 
+
  <style type="text/css">
 *{
-      font-family: 'Kumbh Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
-    .navbar a{font-size: 18px;
-        font-weight: bold;
-       
+  .btn-contact{
+          background-color: #c2939b!important;
+        
+        color:   #050505!important;
+  font-weight: bold;
+ 
+    transition-property: background-color, color, border-color, box-shadow;
+    transition-duration: .3s,.3s,.3s,.8s;
+    transition-timing-function: ease-in-out;
+}
+
+ .nav-link{
+           color: #1aa850!important ;
     }
 
+    .navbar a{font-size: 18px;
+     
+     
+    }
+ 
+.btn-contact:hover {
+    color: #ffffff !important;
+    background-color: #6642fc;
+    border-color: #6642fc;
+
+    box-shadow: 0 10px 40px 0 rgb(0 0 0 / 20%);
+} 
+
+ .underline .line {
+    width: 5rem;
+    height: 3px;
+    background: linear-gradient(90deg, #a38dfd, #fe525b);
+    display: inline-block;
+}
+.display-7 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 1.1rem;
+    color: #767676;
+}
+
+.display-1{
+
+        font-size: 4.5rem;
+}
+.mbr-bold {
+    font-weight: 700;
+}
+.content-7 *{
+color: #6c757d!important;
+}
+.display-5 ,p{
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 1.2rem;
+}
+.jumplinks{
+    list-style: none;
+}
+ 
+.icon-button i:hover{
+       background: black;
+    color: #FECBCF;
+    border-radius: 50%;
+    width: 10mm;
+    text-align: center;
+    height: 10mm;
+}
+
+.dropdown-menu{
+  max-width:800px;
+  overflow-x: auto;
+}
+.icon-button  i{
+     
+    
+ 
+    border-radius: 50%;
+    width: 10mm;
+    text-align: center;
+    height: 10mm;
+}
+.icon-button i:hover{
+    color: #fe525b !important;
+}
+
+.icon-button i{
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+}
     .btn-md{
             padding: 15px 30px;
             border-radius: 0;
     }
-      .btn-warning{
-            background-color: #ffc107!important;
-            border-color:  #ffc107!important;
-        color:   #000000!important;
-    }
-.nav-link{
-           color: #000000!important ;
-    }
-
-    .dropdown-menu{
-  max-width:800px;
-  overflow-x: auto;
-}
     .mbr-section-subsection{
-        color: #999999;
+        color: white;
      font-size: 20px;
     margin-bottom: 21px;
     }
@@ -313,15 +155,28 @@ Alabama, , , , , , ">
         color: #404040;
     }
     .content1{
-        font-size: 20px;
-         color: #606060;
+         
+         color: white;
     }
     .bg-brown{
         background: #eae8e4;
     }
-    .display-4{
-        font-size:45px;
+    
+    . {
+        color: #fe525b !important;
     }
+    footer ul{
+        padding-left: 0px!important;
+        list-style: none;
+    }
+    .display-4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+    .display-2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+}
     .font-weight-400{
         font-weight: 400;
     }
@@ -331,7 +186,10 @@ Alabama, , , , , , ">
     .content2{
         font-size: 17px;
     }
-   
+    li a{
+        color: #fe525b  ;
+
+    }
     ul{
         list-style: circle;
     }
@@ -343,26 +201,26 @@ Alabama, , , , , , ">
             font-size: 17px;
     }
     .contentImg:hover{
-     box-shadow: 0 50px 50px -25px rgb(0 0 0 / 30%);
-    transform: rotate(-2deg) scale(1.03);
+ 
 
     }
     .contentImg{
-        transition: all 0.3s;
-        border-radius: 30px;
+    height: 100%;
+    }
+    .content7{
+        background: black;
     }
     iframe{
         border: none!important;
     }
-     footer{
-        background: #040404;
-    color: #ffffff;
+    footer{
+        background: black;
+    color: white;
     }
-    footer a{
-         color:  #ffffff ;
-         text-decoration: underline;
-
-    }   
+    .align-self-stretch {
+    -ms-flex-item-align: stretch!important;
+    align-self: stretch!important;
+}
     .underlineShow {
     font-weight: inherit;
     background-image: linear-gradient(120deg, #ffc658 0%, #ffc658 100%);
@@ -373,285 +231,243 @@ Alabama, , , , , , ">
 }
 .allShow:hover,.underlineShow:hover{
         background-size: 100% 100%!important;
-     
-    background-image: linear-gradient(120deg, #ffc658 0%, #ffc658 100%)!important;
+ color: #fecbcf!important;
     background-repeat: no-repeat!important;
  
     background-position: 0 90%!important;
     transition: background-size 0.2s ease-in!important;
 }
-.icon-button i:hover{
-       background: white;
-    color: #ffc107;
-    border-radius: 50%;
-    width: 10mm;
-    text-align: center;
-    height: 10mm;
+ .img-wrap {
+    width: 100% !important;
+    height: 100% !important;
 }
-.icon-button  i{
-     
+footer{
+        padding-top: 60px;
+    padding-bottom: 60px;
     
+}
+  footer{
+        background:  #ffffff;
+    color:  #808080;
+    }
+
+    footer a{
+         color:  #808080!important ;
+         text-decoration: underline!important;
+
+    }  
+    footer *{ 
+      font-size: 19px!important;
+        color:  #808080 !important;
+        }
  
-    border-radius: 50%;
-    width: 10mm;
-    text-align: center;
-    height: 10mm;
-}
-.icon-button i{
-    font-size: 20px;
-    padding: 10px;
+a{
+        font-weight: 400;
 }
 
-.icon-button i:hover{
-    color: #7CE0D3;
+footer *{
+    line-height: 1.5;
 }
 
+@media only screen and (max-width: 1000px) {
+   .display-1{
+    font-size: 20px!important;
+   }
+   .display-2{
+    font-size: 18px!important;
+   }
+   .display-7{
+    font-size: 12px!important;
+   }
+   .display-5{
+    font-size: 14px!important;
+   }
+   .features1 .row:nth-child(2) {
+    flex-direction: column-reverse;
+   }
+}
+ 
+.bg-image{
+       background-image: linear-gradient(rgba(0,0,0,3),rgba(0,0,0,0.3)),url(https://mobirise.com/website-templates/best-website-templates/assets/images/01.jpg);
+    background-size: auto,cover;
+    min-height: 91vh;
+}
+ 
+.section_padding_130 {
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.faq_area {
+    position: relative;
+    z-index: 1;
+    background-color: #fecbcf;
+}
+
+.faq-accordian {
+    position: relative;
+    z-index: 1;
+}
+.faq-accordian .card {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 1.5rem;
+}
+.faq-accordian .card:last-child {
+    margin-bottom: 0;
+}
+.faq-accordian .card .card-header {
+    background-color: #ffffff;
+    padding: 0;
+    border-bottom-color: #ebebeb;
+}
+.faq-accordian .card .card-header h6 {
+    cursor: pointer;
+    padding: 1.75rem 2rem;
+    color: #3f43fd;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -ms-grid-row-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+.faq-accordian .card .card-header h6 span {
+    font-size: 1.5rem;
+}
+.faq-accordian .card .card-header h6.collapsed {
+    color: #070a57;
+}
+.faq-accordian .card .card-header h6.collapsed span {
+    -webkit-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+}
+.faq-accordian .card .card-body {
+    padding: 1.75rem 2rem;
+}
+.faq-accordian .card .card-body p:last-child {
+    margin-bottom: 0;
+}
+
+@media (min-width: 1250px){
+.container {
+    max-width: 1248px !important;
+}
+footer .container  {
+    max-width: 1200px !important;
+}
+@media (min-width: 1330px)
+ {
+  .container {
+    max-width: 1330px !important;
+}
+@media (min-width: 1430px)
+ {
+  .container {
+    max-width: 1430px !important;
+}
+}
+
+
+@media only screen and (max-width: 575px) {
+    .support-button p {
+        font-size: 14px;
+    }
+}
+
+
+
+.support-button i {
+    color: #3f43fd;
+    font-size: 1.25rem;
+}
+@media only screen and (max-width: 575px) {
+    .support-button i {
+        font-size: 1rem;
+    }
+}
+
+.support-button a {
+    text-transform: capitalize;
+    color: #2ecc71;
+}
+@media only screen and (max-width: 575px) {
+    .support-button a {
+        font-size: 13px;
+    }
+}
 </style>
 
-<body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-white px-md-5 pt-3 pb-3">
- 
-      <a class="navbar-brand" href="index.html"  >
-       <img alt="" src="img/logo.jpg"        >
+</head>
+    
+<body> 
+      <nav class="navbar navbar-expand-lg navbar-light bg-white px-md-5 pt-3 pb-3">
+  
+          <a class="navbar-brand" href="https://huzmark.tech/test.html"  >
+
+
+        <img alt="" src="img/"        width="100px"
+   >
+
       </a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
-          
+    
+          <li  class="mt-2 nav-item pr-md-4" >
+                          <a   class="nav-link allShow   "    href="news.html" rel="nofollow"  >
+                        News</a></li>
 
-         
-
-
-                <li class="mt-2 nav-item pr-md-4"><a   class="nav-link allShow   " href="index.html"  >Alaska</a></li>
-      <li class="mt-2 nav-item pr-md-4"><a   class="nav-link allShow   " href="arizona.html"  >Arizona</a></li>
-       <li class="mt-2  nav-item pr-md-4"><a  class="nav-link allShow   "  href="arkansas.html"  >Arkansas</a></li>
-        <li class="mt-2  nav-item pr-md-4"><a   class="nav-link allShow   " href="california.html"  >California</a></li>
-         
-
-         <li class="mt-2 nav-item pr-md-4 dropdown"> 
-  <a  class="nav-link allShow  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-      
-    <a  class="dropdown-item" href="colorado.html"  >Colorado</a>
-        
-
-      
-    <a  class="dropdown-item" href="connecticut.html"  >Connecticut</a>
-        
-
-      
-    <a  class="dropdown-item" href="delaware.html"  >Delaware</a>
-        
-
-      
-    <a  class="dropdown-item" href="florida.html"  >Florida</a>
-        
-
-      
-    <a  class="dropdown-item" href="georgia.html"  >Georgia</a>
-        
-
-      
-    <a  class="dropdown-item" href="hawaii.html"  >Hawaii</a>
-        
-
-      
-    <a  class="dropdown-item" href="idaho.html"  >Idaho</a>
-        
-
-      
-    <a  class="dropdown-item" href="illinois.html"  >Illinois</a>
-        
-
-      
-    <a  class="dropdown-item" href="indiana.html"  >Indiana</a>
-        
-
-      
-    <a  class="dropdown-item" href="iowa.html"  >Iowa</a>
-        
-
-      
-    <a  class="dropdown-item" href="kansas.html"  >Kansas</a>
-        
-
-      
-    <a  class="dropdown-item" href="kentucky.html"  >Kentucky</a>
-        
-
-      
-    <a  class="dropdown-item" href="louisiana.html"  >Louisiana</a>
-        
-
-      
-    <a  class="dropdown-item" href="maine.html"  >Maine</a>
-        
-
-      
-    <a  class="dropdown-item" href="maryland.html"  >Maryland</a>
-        
-
-      
-    <a  class="dropdown-item" href="massachusetts.html"  >Massachusetts</a>
-        
-
-      
-    <a  class="dropdown-item" href="michigan.html"  >Michigan</a>
-        
-
-      
-    <a  class="dropdown-item" href="minnesota.html"  >Minnesota</a>
-        
-
-      
-    <a  class="dropdown-item" href="mississippi.html"  >Mississippi</a>
-        
-
-      
-    <a  class="dropdown-item" href="missouri.html"  >Missouri</a>
-        
-
-      
-    <a  class="dropdown-item" href="montana.html"  >Montana</a>
-        
-
-      
-    <a  class="dropdown-item" href="nebraska.html"  >Nebraska</a>
-        
-
-      
-    <a  class="dropdown-item" href="nevada.html"  >Nevada</a>
-        
-
-      
-    <a  class="dropdown-item" href="new-hampshire.html"  >New Hampshire</a>
-        
-
-      
-    <a  class="dropdown-item" href="new-jersey.html"  >New Jersey</a>
-        
-
-      
-    <a  class="dropdown-item" href="new-mexico.html"  >New Mexico</a>
-        
-
-      
-    <a  class="dropdown-item" href="new-york.html"  >New York</a>
-        
-
-      
-    <a  class="dropdown-item" href="north-carolina.html"  >North Carolina</a>
-        
-
-      
-    <a  class="dropdown-item" href="north-dakota.html"  >North Dakota</a>
-        
-
-      
-    <a  class="dropdown-item" href="ohio.html"  >Ohio</a>
-        
-
-      
-    <a  class="dropdown-item" href="oklahoma.html"  >Oklahoma</a>
-        
-
-      
-    <a  class="dropdown-item" href="oregon.html"  >Oregon</a>
-        
-
-      
-    <a  class="dropdown-item" href="pennsylvania.html"  >Pennsylvania</a>
-        
-
-      
-    <a  class="dropdown-item" href="rhode-island.html"  >Rhode Island</a>
-        
-
-      
-    <a  class="dropdown-item" href="south-carolina.html"  >South Carolina</a>
-        
-
-      
-    <a  class="dropdown-item" href="south-dakota.html"  >South Dakota</a>
-        
-
-      
-    <a  class="dropdown-item" href="tennessee.html"  >Tennessee</a>
-        
-
-      
-    <a  class="dropdown-item" href="texas.html"  >Texas</a>
-        
-
-      
-    <a  class="dropdown-item" href="utah.html"  >Utah</a>
-        
-
-      
-    <a  class="dropdown-item" href="vermont.html"  >Vermont</a>
-        
-
-      
-    <a  class="dropdown-item" href="virginia.html"  >Virginia</a>
-        
-
-      
-    <a  class="dropdown-item" href="washington.html"  >Washington</a>
-        
-
-      
-    <a  class="dropdown-item" href="west-virginia.html"  >West Virginia</a>
-        
-
-      
-    <a  class="dropdown-item" href="wisconsin.html"  >Wisconsin</a>
-        
-
-      
-    <a  class="dropdown-item" href="wyoming.html"  >Wyoming</a>
-        
-
-      
-    <a  class="dropdown-item" href="alabama.html"  >Alabama</a>
-        
-
-      </div>
- 
-</li>
-          
-
-    <li  class="mt-2   nav-item pr-md-4" >                          <a   class="nav-link allShow   " rel=nofollow   href="about-us.html"  >
-            About Us</a></li>
-      
      
- 
+
+         
+       
+          <li class="mt-2  nav-item pr-md-4"><a  class="nav-link allShow   " href="https://huzmark.tech/test.html"   >test</a></li>
+       
   
+          <li class="mt-2  nav-item pr-md-4"><a  class="nav-link allShow   " href="https://huzmark.tech/te.html"   >te</a></li>
+       
+  
+          <li class="mt-2  nav-item pr-md-4"><a  class="nav-link allShow   " href="https://huzmark.tech/st.html"   >st</a></li>
+       
+  
+          <li class="mt-2  nav-item pr-md-4"><a  class="nav-link allShow   " href="https://huzmark.tech/e.html"   >e</a></li>
+       
+                <li  class="mt-2 nav-item pr-md-4" >
+                          <a   class="nav-link allShow   "    href="about-us.html"  rel="nofollow" >
+                        About Us</a></li>
+            
+               <li class="nav-item  ">
+      <a class="btn btn-md btn-contact    display-4" href="test" rel="nofollow">Contact Us</a>
+         </li>
+     
+
+
     </ul>
      
   </div>
 </nav>
- 
 
 
 
-
-
-<section class="top-se container c" style="min-height: 80vh;">
+<div class="main">
+<section class="top-se container c"  >
    
+<h1>Privacy Policy for </h1>
 
-<h1>Privacy Policy for Privin Consulting Network</h1>
+<p>At  one of our main priorities is the privacy of our visitors.
 
-<p>At Privin Consulting Network one of our main priorities is the privacy of our visitors.
-
- This Privacy Policy document contains types of information that is collected and recorded by Privin Consulting Network and how we use it. You can check out our main website here: </p>
+ This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Privin Consulting Network. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
 
 <h2>Consent</h2>
 
@@ -661,7 +477,7 @@ Alabama, , , , , , ">
 
 <p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
 <p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-<p>When you register for an Account, we may ask for your contact information, including items such as name, Privin Consulting Network, address, email address, and telephone number.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, , address, email address, and telephone number.</p>
 
 <h2>How we use your information</h2>
 
@@ -679,22 +495,22 @@ Alabama, , , , , , ">
 
 <h2>Log Files</h2>
 
-<p>Privin Consulting Network follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<p> follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 
 
 
 
 <h2>Advertising Partners Privacy Policies</h2>
 
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Privin Consulting Network.</p>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of .</p>
 
-<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Privin Consulting Network, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on , which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
 
-<p>Note that Privin Consulting Network has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>Note that  has no access to or control over these cookies that are used by third-party advertisers.</p>
 
 <h2>Third Party Privacy Policies</h2>
 
-<p>Privin Consulting Network's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
 
 <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 
@@ -721,133 +537,117 @@ Alabama, , , , , , ">
 
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-<p>Privin Consulting Network does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<p> does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 
 
 <h2>Publisher</h2>
 
 <p>
 This website is owned and published by:
-Privin Consulting Network</br>
 </br>
 </br>
 </br>
 </br>
 </br>
-info@privin.net</br>
+</br>
+</br>
 </p>
 
 
 
 </section>
- 
+ </div>
 
-    
+
+
 <footer>
-    <div class="container py-4 pt-5" style="max-width: 1400px;">
-        <div class="row">
-             <div class="col-lg-3">
- 
-                  <p>Privin Consulting Network</p>
-               
-            <p>Email : info@privin.net</p>
-      
-      
-      
-      
 
-                    
-    
-    
-    
-    
-    
-       </div>
-      
-     <div class="col-lg-3">
-      
+     
+    <div class="container">
+        <div class="row justify-content-center align-center">
+          <div class="col-md-3 list-column">
+            <h3 class="mbr-section-title mbr-fonts-style mbr-bold display-7">  
+            </h3>
+       
+            <div class="mbr-list text-dark counter-container mbr-fonts-style display-4">
              
-
-<p><a class="  allShow" href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="  allShow"  href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="  allShow" href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="  allShow" href="" rel="nofollow" target="_blank"></a></p>
-<p><a class="  allShow"  href="" rel="nofollow" target="_blank"></a></p>
-  <p><a class="  allShow"  href=""  target="_blank"></a></p>
-</div>
-
- 
-<div class="col-lg-3">
+                          </div>
+          </div>
+          <div class="col-md-3 list-column">
          
+                
 
-<p><a  class="  allShow" href="" rel="nofollow" target="_blank"></a></p>
-<p><a  class="  allShow" href="" rel="nofollow" target="_blank"></a></p>
-<p><a  class="  allShow" href="" rel="nofollow" target="_blank"></a></p>
+            <div class="mbr-list counter-container mbr-fonts-style display-4">
+              <ul>
+            
 
+<li class="mbr-text item-wrap"><a class="  allShow" href="" rel="nofollow" target="_blank"></a></li>
+<li class="mbr-text item-wrap"><a class="  allShow"  href="" rel="nofollow" target="_blank"></a></li>
+<li class="mbr-text item-wrap"><a class="  allShow" href="" rel="nofollow" target="_blank"></a></li>
+<li class="mbr-text item-wrap"><a class="  allShow" href="" rel="nofollow" target="_blank"></a></li>
+<li class="mbr-text item-wrap"><a class="  allShow"  href="" rel="nofollow" target="_blank"></a></li>
+ <li class="mbr-text item-wrap"><a  class="  allShow"  href=""  target="_blank"></a></li>
 
-  <p><a class="  allShow"  href=""  target="_blank"></a></p>
-  
- 
-<p>
-       <a  class="   allShow" href="sitemap.html"  rel="nofollow"  class="  allShow"  >
-    
-
-
-    Sitemap</a></p>
-
- 
-<p>
-  <a  class="text-   allShow  " href="privacy-policy.html" rel="nofollow"   class="  allShow"  >
-   
-    Privacy Policy</a></p>
-
- 
-<p>
-  <a  class="text-   allShow  " href="about-us.html" rel="nofollow"   class="  allShow"  >
-   
-About Us</a></p>
-
-
-<p>
- <p>
-    </p>
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- </p>
-</div>
-
- 
-<div class="col-lg-3">
-            <div class="social">
-                    
-                                                                                                                                          
-                      
+              </ul>
             </div>
-    </div>
-</div>
-    </div>
+          </div>
+           <div class="col-md-3 list-column">
+      
+              
     
-    
-    </footer>
+            <div class="mbr-list counter-container mbr-fonts-style display-4">
+              <ul>
+      
 
-</body>
 
-</html>
+      <li class="mbr-text item-wrap"><a  class="" href="" rel="nofollow" target="_blank"></a></li>
+      <li class="mbr-text item-wrap"><a  class="" href="" rel="nofollow" target="_blank"></a></li>
+      <li class="mbr-text item-wrap"><a  class="" href="" rel="nofollow" target="_blank"></a></li>
+
+  
+  <li class="mbr-text item-wrap"><a  class="   allShow"   href=""  target="_blank"></a></li>
+ 
+ <li class="mbr-text item-wrap">
+                        <a  class="allShow" href="https://huzmark.tech/sitemap.html"  rel="nofollow"  class="  allShow"  >
+        Sitemap</a></li>
+      <li class="mbr-text item-wrap">
+   <a  class="allShow" href="https://huzmark.tech/privacy-policy.html" rel="nofollow"   class="  allShow"  >
+   
+ Privacy Policy</a></li>
+
+ 
+<li>
+  <a  class="text-   allShow  " href="https://huzmark.tech/about-us.html" rel="nofollow"   class="  allShow"  >
+   
+About Us</a></li>
+
+
+ <li class="mbr-text item-wrap  ">
+ </li>
+<li>
+     
+
+  
+
+
+
+
+</li>
+
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h3 class="mbr-section-title mbr-fonts-style mbr-bold display-7">Connect
+            </h3>
+            <hr>
+              <div class="social">
+                     
+                                                                                                                                          
+            </div>
+          </div>
+        </div>
+        <hr>
+       
+    </div>
+</footer>
