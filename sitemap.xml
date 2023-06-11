@@ -6,34 +6,34 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>https://huzmark.tech/test.html</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https://huzmark.tech/news.html</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https://huzmark.tech/news/test.html</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>https://huzmark.tech/privacy-policy.html</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https://huzmark.tech/feed.xml</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https://huzmark.tech/sitemap.xml</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>https://huzmark.tech/sitemap.html</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://huzmark.tech/sitemap.xml</loc>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://huzmark.tech/feed.xml</loc>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>https://huzmark.tech/about-us.html</loc>
-                 <lastmod>2023-06-11T19:48:23+02:00</lastmod>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://huzmark.tech/news.html</loc>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://huzmark.tech/news/test.html</loc>
+                 <lastmod>2023-06-11T19:49:03+02:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
