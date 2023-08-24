@@ -5,35 +5,55 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>https://huzmark.tech/test.html</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>eqasdasd.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/privacy-policy.html</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>qwesd.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/sitemap.html</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>adqwe.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/sitemap.xml</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>news.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/feed.xml</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>news/nutrii-organic-green-immunity-superfood-powder-review.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/about-us.html</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>news/what-are-some-superfood-snacks.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/news.html</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>news/are-superfoods-safe-for-pregnant-women.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://huzmark.tech/news/test.html</loc>
-                 <lastmod>2023-06-11T19:53:04+02:00</lastmod>
+                 <loc>news/are-superfoods-safe-for-children.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2023-08-24T13:26:01+02:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
