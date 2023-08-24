@@ -1,1 +1,1 @@
-Sitemap: https://huzmark.tech/sitemap.xml
+Sitemap: sitemap.xml
