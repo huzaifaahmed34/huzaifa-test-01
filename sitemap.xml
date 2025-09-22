@@ -5,59 +5,35 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>https//netlify.com/index.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>index.html</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/a-academic-assessment.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>2.html</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/b-medical-diagnosis.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>3.html</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/evaluation.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/a-performance-appraisal.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>feed.xml</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/b-product-quality-assessment.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/news.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https//netlify.com/news/what-is-the-secret-to-achieving-perfect-test-scores-uncover-it-todayhow-to-ace-your-exams-unlock-the-secrets-of-effective-studying.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https//netlify.com/news/what-is-the-secret-to-achieving-perfect-test-scores-uncover-it-todayhow-to-ace-your-exams-unlock-the-secrets-of-effective-studying.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https//netlify.com/privacy-policy.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https//netlify.com/feed.xml</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https//netlify.com/sitemap.xml</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https//netlify.com/sitemap.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>https//netlify.com/about-us.html</loc>
-                 <lastmod>2024-01-02T15:51:14+01:00</lastmod>
+                 <loc>about-us.html</loc>
+                 <lastmod>2025-09-22T12:57:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
